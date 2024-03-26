@@ -19,7 +19,7 @@
     "axios": "^1.6.5",
     "ethers": "^6.10.0",
     "framer-motion": "^10.18.0",
-    "jsbi": "^3.2.1",
+    "jsbi": "^4.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
